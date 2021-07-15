@@ -22,12 +22,7 @@ Working:
 - Battery managment
 - Power managment (Native with CFG Lock disabled in Advanced Bios)
 - WiFi/BT (Intel drivers still in development, not realiable)
-
-To be fixed:
-- Fans on all the time
-- Sleep/Wake
 - Ethernet
-- USBs still need to be mapped
 
 #### To enter the Advanced BIOS
 While in the BIOS, press F2, Left ALT, Right SHIFT, Right CTRL
